@@ -16,5 +16,6 @@ Here are some ideas to get you started:
 -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wave-rec)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wave-rec)
-![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=wave_rec)
+
