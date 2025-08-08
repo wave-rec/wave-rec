@@ -1,4 +1,4 @@
-## 안녕하세요👋 고래의 코드 바다 항해에 오신걸 환영합니다!
+## 안녕하세요👋 코드 바다를 기록하는 공간에 오신걸 환영합니다!
 
 <!--
 **wave-rec/wave-rec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
