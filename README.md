@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wave-rec)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=wave-rec&cache_seconds=86400)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wave-rec)
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=wave-rec&cache_seconds=86400)
+
 
