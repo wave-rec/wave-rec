@@ -38,11 +38,12 @@ Here are some ideas to get you started:
 
 <br>
 
-## Baekjoon
+## 🧮 Baekjoon 🧮
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=a000906)](https://solved.ac/a000906/)
 
 <br>
 
+## 🌱 Commits 🌱
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
 
