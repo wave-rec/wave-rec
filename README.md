@@ -43,7 +43,6 @@ Here are some ideas to get you started:
 
 <br>
 
-![](./profile-3d-contrib/profile-gitblock.svg)
-
+![](./profile-3d-contrib/profile-green-animate.svg)
 
 
