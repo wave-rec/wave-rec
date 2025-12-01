@@ -51,5 +51,7 @@ Here are some ideas to get you started:
 
 ## 🌱 Commits 🌱
 ![](./profile-3d-contrib/profile-green-animate.svg)
+![GitHub Contribution Snake](https://raw.githubusercontent.com/wave-rec/wave-rec/output/github-contribution-grid-snake.svg)
+
 
 
