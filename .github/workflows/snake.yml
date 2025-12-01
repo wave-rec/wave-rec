@@ -1,0 +1,27 @@
+name: Generate GitHub Contribution Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # 매일 00:00(UTC)에 실행
+  workflow_dispatch:       # 수동 실행도 가능
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Generate Snake SVG
+        uses: platane/snk@v3
+        with:
+          github_user_name: wave-rec   # 👉 여기 건들지 말고 그대로 두면 됨 (너의 GitHub ID)
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Push Snake SVG to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output    # 결과물을 올릴 브랜치 이름
+          build_dir: dist          # 위에서 만든 파일들이 들어있는 폴더
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
